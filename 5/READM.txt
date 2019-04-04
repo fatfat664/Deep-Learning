@@ -1,0 +1,9 @@
+Designing a CNN to classify the MNIST dataset.
+
+Featuring:
+Comparing SGD, SGD with momentum, AdaGrad, Adam optimizers for best performance
+Learning rate tuning
+Batch Normalization
+Pre trained AlexNet
+Dropout
+L1 regularization
